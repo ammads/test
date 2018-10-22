@@ -2,7 +2,7 @@
 // include database connection
 include './conn.php';
  
-try {
+try this {
      
     $id=isset($_GET['id']) ? $_GET['id'] : die('ERROR: ID no encontrado.');
  
